@@ -1,0 +1,13 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://new-url.com" />
+    <title>Page Redirection</title>
+</head>
+<body>
+    <p>If you are not redirected automatically, follow this <a href="https://new-url.com">link</a>.</p>
+</body>
+</html>
